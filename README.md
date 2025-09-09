@@ -26,8 +26,8 @@ A simple **full-stack CRUD application** for managing books, built with:
 #### Installation
 ```bash
 # Clone repo if needed
-git clone https://github.com/your-username/book-management-app.git
-cd book-management-app/backend
+git clone https://github.com/your-username/library-management.git
+cd library-management/backend
 
 # Create virtual environment
 python -m venv venv
